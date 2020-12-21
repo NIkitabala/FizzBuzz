@@ -1,4 +1,3 @@
-
 for num in range(1, 101):
     if num % 15 == 0:
         print("FizzBuzz")
